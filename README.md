@@ -1,0 +1,2 @@
+# novJsEx
+Js_exercise
